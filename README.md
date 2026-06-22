@@ -136,6 +136,8 @@ Then query interactively:
 
 Example session:
 <img width="1472" height="755" alt="image" src="https://github.com/user-attachments/assets/d121bba3-c155-47f3-9dd2-2f39abcd75e5" />
+<img width="1468" height="762" alt="image" src="https://github.com/user-attachments/assets/0818dade-03b4-43d2-b411-aa81e09c6fc1" />
+
 
 ```
 > hel
