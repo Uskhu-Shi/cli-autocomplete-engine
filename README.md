@@ -114,8 +114,9 @@ g++ -std=c++17 -Wall -Wextra -Iinclude -o autocomplete src/*.cpp
 
 On first run, the engine indexes every `.txt` file in `data/sample_docs/` and saves the result to `index/trie_index.bin`:
 
+
 ```
-=== Autocomplete + Fuzzy Search Engine ===
+Autocomplete + Fuzzy Search Engine 
 No existing index found. Building from text files in 'data/sample_docs'...
 Indexed file: doc1.txt
 Indexed file: doc2.txt
@@ -134,6 +135,8 @@ Then query interactively:
 | `:quit` | Exits |
 
 Example session:
+<img width="1472" height="755" alt="image" src="https://github.com/user-attachments/assets/d121bba3-c155-47f3-9dd2-2f39abcd75e5" />
+
 ```
 > hel
 Autocomplete suggestions for "hel":
