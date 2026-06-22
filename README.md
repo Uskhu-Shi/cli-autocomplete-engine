@@ -155,7 +155,7 @@ Did you mean:
 
 On the **next** run, the binary index is loaded directly — no documents are re-read:
 ```
-=== Autocomplete + Fuzzy Search Engine ===
+Autocomplete + Fuzzy Search Engine 
 Loaded existing index from 'index/trie_index.bin' (skipped re-parsing text).
 ```
 
