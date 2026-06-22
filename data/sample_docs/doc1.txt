@@ -1,0 +1,7 @@
+The quick brown fox jumps over the lazy dog. The dog barks at the fox.
+Hello world, hello everyone. This is a simple test document for the autocomplete engine.
+Helsinki is a beautiful city. Helmet safety is important when cycling.
+Help me understand how tries work. Helping others is rewarding.
+Programming in C++ requires understanding pointers, memory management, and data structures.
+Data structures like tries, heaps, and hash maps are fundamental to computer science.
+The trie data structure efficiently stores strings for prefix based searching.
